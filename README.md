@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-reve-dune-vie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Le Rêve D'une Vie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-reve-dune-vie/) |
+| **Get License** | [Get License For Le Rêve D'une Vie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-reve-dune-vie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de Paris, tu brilles dans le noir
+> My baby, ton regard me laisse tellement sans voix
+> On roule toute la nuit, Saint-Tropez on our mind
+> C'est le rêve d'une vie, laisse le monde behind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
